@@ -1,4 +1,3 @@
-@@ -0,0 +1,910 @@
 # Welcome to Nucleus 1.5.2-S7.0. This is the main configuration file.
 # 
 # If you're having issues with Nucleus, we have different support options for you:
