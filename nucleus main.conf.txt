@@ -252,6 +252,68 @@ chat {
                 # The weight of the template. A higher number will take priority over lower numbers when two templates could apply to the same player because they are in the both groups.
                 weight=1
             }
+            novice{
+            default-chatcolour=DARK_RED
+            }
+            beginner{
+            default-chatcolour=DARK_RED
+            }
+            rookie{
+            default-chatcolour=RED
+            }
+            seasoned{
+            default-chatcolour=GOLD
+            }
+            experienced{
+            default-chatcolour=GOLD
+            }
+            advanced{
+            default-chatcolour=DARK_GREEN
+            }
+            pro{
+            default-chatcolour=GREEN
+            }
+            senior{
+            default-chatcolour=AQUA
+            }
+            expert{
+            default-chatcolor=DARK_AQUA
+            }
+            officer{
+            default-chatcolor=DARK_BLUE
+            }
+            ranger{
+            default-chatcolour=BLUE
+            }
+            leader{
+            default-chatcolour=LIGHT_PURPLE
+            }
+            master{
+            default-chatcolour=DARK_PURPLE
+            }
+            champion{
+            default-chatcolour=GRAY
+            }
+            2lt{
+            default-chatcolour=DARK_AQUA
+            }
+            1lt{
+            default-chatcolour=DARK_AQUA
+            }
+            cpt{
+            default-chatcolour=DARK_AQUA
+            }
+            ltc{
+            default-chatcolour=DARK_AQUA
+            }
+            col{
+            default-chatcolour=DARK_AQUA
+            }
+            brg{
+            default-chatcolour=DARK_AQUA
+            }
+
+
         }
         # If "true", then Nucleus will select the most appropriate group template for a player when they send a chat message. If it's false 
         # the default template will always be used, but there will be a performance gain because a player's groups not not have to be retrieved from the permission plugin. 
