@@ -294,22 +294,30 @@ chat {
             default-chatcolour=GRAY
             }
             2lt{
-            default-chatcolour=DARK_AQUA
+            default-chatcolour=AQUA
+            default-namecolour=AQUA
             }
             1lt{
-            default-chatcolour=DARK_AQUA
+            default-chatcolour=AQUA
+            default-namecolour=AQUA
             }
             cpt{
-            default-chatcolour=DARK_AQUA
+            default-chatcolour=AQUA
+            default-namecolour=AQUA
             }
             ltc{
-            default-chatcolour=DARK_AQUA
+            default-chatcolour=AQUA
+            default-namecolour=AQUA
             }
             col{
-            default-chatcolour=DARK_AQUA
+            default-chatcolour=AQUA
             }
             brg{
-            default-chatcolour=DARK_AQUA
+            default-chatcolour=AQUA
+            }
+            gen {
+            default-chatcolour=Green
+            default-namecolour=dark_aqua
             }
 
 
