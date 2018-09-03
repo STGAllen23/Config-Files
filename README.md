@@ -1,12 +1,16 @@
 
-##Config files for BattleForceRebornGaming 
+# Config files for BattleForceRebornGaming 
 
 
-#Commands for Commandutils:
-/pcallow true *Permission: pcallow.true*
+Commands for Commandutils:
+- /pcallow true 
+    - *Permission: pcallow.true*
 
-/pcallow false *Permission: pcallow.false*
+- /pcallow false 
+    - *Permission: pcallow.false*
 
-/trainerallow true *Permission: trainerallow.true*
+- /trainerallow true 
+    - *Permission: trainerallow.true*
 
-/trainerallow false *Permission: trainerallow.false*
+- /trainerallow false 
+    - *Permission: trainerallow.false*
