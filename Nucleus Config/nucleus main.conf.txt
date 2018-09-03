@@ -252,46 +252,46 @@ chat {
                 weight=1
             }
             novice{
-            default-chatcolour=DARK_RED
+            default-namecolour=DARK_RED
             }
             beginner{
-            default-chatcolour=DARK_RED
+            default-namecolour=DARK_RED
             }
             rookie{
-            default-chatcolour=RED
+            default-namecolour=RED
             }
             seasoned{
-            default-chatcolour=GOLD
+            default-namecolour=GOLD
             }
             experienced{
-            default-chatcolour=GOLD
+            default-namecolour=GOLD
             }
             advanced{
-            default-chatcolour=DARK_GREEN
+            default-namecolour=DARK_GREEN
             }
             pro{
-            default-chatcolour=GREEN
+            default-namecolour=GREEN
             }
             senior{
-            default-chatcolour=AQUA
+            default-namecolour=AQUA
             }
             expert{
-            default-chatcolor=DARK_AQUA
+            default-namecolor=DARK_AQUA
             }
             officer{
-            default-chatcolor=DARK_BLUE
+            default-namecolor=DARK_BLUE
             }
             ranger{
-            default-chatcolour=BLUE
+            default-namecolour=BLUE
             }
             leader{
-            default-chatcolour=LIGHT_PURPLE
+            default-namecolour=LIGHT_PURPLE
             }
             master{
-            default-chatcolour=DARK_PURPLE
+            default-namecolour=DARK_PURPLE
             }
             champion{
-            default-chatcolour=GRAY
+            default-namecolour=GRAY
             }
             2lt{
             default-chatcolour=AQUA
